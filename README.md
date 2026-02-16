@@ -37,7 +37,7 @@ Looking closely at the visualisation, there is a surge in Q4 followed by a sharp
 
 This is a breakdown of the individuals contributing most to product purchase.
 
-There is an observation to take note of; the highest value customer generated a negative revenue for product xyz. Also looking across the chart, the amount of purchases made by the high value customers for product xyz were very minimal.
+There is an observation to take note of; the highest value customer generated a negative revenue for product "POSTAGE". Also looking across the chart, the amount of purchases made by the high value customers for product "POSTAGE" were very minimal.
 
 ## Top 10 Markets (Excluding the UK) :
 
@@ -84,11 +84,11 @@ Therefore the revenue peaks observed in the final quarter, necessitates a needed
 
 Inventory Optimization: 
 
-Increasing stock levels by 25-30% every Q3 would help to prevent stock-outs during the high-velocity demands during the October–December period.
+Increasing stock levels by 25-30% every Q3 would help to prevent stock-outs during the high-velocity demands in the October–December period.
 
 Market-Specific Marketing: 
 
-It is necessary to allocate 60% of the international marketing budget to the top three identified countries (e.g., Netherlands, Ireland, and Germany) where their GDPs promise  high ROI.
+It is necessary to allocate 60% of the international marketing budget to the top three identified countries (e.g., Netherlands, France, and Germany) where their GDPs promise  high ROI.
 
 Customer Retention: 
 
