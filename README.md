@@ -30,23 +30,42 @@ https://public.tableau.com/app/profile/joseph.efobi/viz/TATADataVisualisation_17
 
 ## Monthly Revenue Trend :
 This is a time series analysis showing the trajectory of every business at each quarter.
+Looking closely at the visualisation, there is a surge in Q4 followed by a sharp decline. This is a stepping stone for the supply chain section to look into the causality of the surge and also check what might have caused the decline.
 
-Looking closely at the visualisation, there is a surge in Q4 followed by a sharp draw down. This is a stepping stone for the supply chain section to look into the causality of the surge.
+Observing seasonality trends is also a great idea to note. Regardless of the availability of each product in the market, they have various seasons when they sell well. Therefore identifying those products and noting their sales seasonality would even enable the surge observed in Q4 to become a usual uptrend beginning from Q1.
 
-## Top 10 High Value Customers :
+
+<img width="974" height="467" alt="image" src="https://github.com/user-attachments/assets/8b6572ea-0aa5-4ca3-8ba3-578f1c1b21d6" />
+
+
+## Top 10 Customers By Revenue :
 
 This is a breakdown of the individuals contributing most to product purchase.
 
-There is an observation to take note of; the highest value customer generated a negative revenue for product "POSTAGE". Also looking across the chart, the amount of purchases made by the high value customers for product "POSTAGE" were very minimal.
+There is an observation to take note of; the highest value customer generated a negative revenue for product “POSTAGE”. Also looking across the chart, the amount of purchases made by the high value customers for product “POSTAGE” were very minimal.
+
+However,  easy channels should be made available for customers to reach out to the customer care department of the company in case of any complaint for any product or shipping delay. loyalty programmes and proper enlightenment campaigns should also be a second call which would enable the customers to understand when? and how? to use the company products
+
+<img width="812" height="473" alt="image" src="https://github.com/user-attachments/assets/fc7b93e6-790c-4275-921b-79d81bf88a58" />
+
+
+
 
 ## Top 10 Markets (Excluding the UK) :
 
-This view identifies the most organic growth outside the home market.
+This view identifies the most organic growth outside the home market which has an organic growth already
+
+<img width="812" height="465" alt="image" src="https://github.com/user-attachments/assets/16c6a4e7-5fb5-4a20-ad83-5d2ce8024ab2" />
+
+
 
 
 ## Product Volume by Country :
 
-Identify which regions buy in bulk versus high frequency small orders.
+This chart identifies which countries buy in bulk versus high frequency small orders.
+
+<img width="818" height="436" alt="image" src="https://github.com/user-attachments/assets/bdb51e9d-ee44-4f3a-9f19-a7af8bb42fe6" />
+
 
 ## Metric Calculations :
 
@@ -93,4 +112,8 @@ It is necessary to allocate 60% of the international marketing budget to the top
 Customer Retention: 
 
 It is advisable to implement a targeted loyalty program for the Top 10 Customers identified in this report, as their lifetime value significantly outpaces the general consumer base.
+
+Feel free to interact with the dashboard here : https://public.tableau.com/app/profile/joseph.efobi/viz/TATADataVisualisation_17709950337120/Overview?publish=yes
+
+
 
